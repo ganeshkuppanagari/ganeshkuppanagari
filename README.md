@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on Permissioned Blockchain projects for IIoT and web-based applications  <br> I’m looking to collaborate on Blockchain, Web Development, and Open Source projects  <br>🤝 I’m looking for help with Advanced Smart Contracts and Backend Optimization  <br>🌱 I’m currently learning Blockchain, Full-Stack Web Development.  <br>💬 Ask me about HTML, CSS, JavaScript, GitHub, and Blockchain basics  <br>⚡ Fun fact: I love turning ideas into working websites 🚀<br>
+🔭 Currently learning Full-Stack Web Development
+
+🌱 Improving my skills in Java, Web Development, and Software Development
+
+👯 Looking to collaborate on beginner-friendly Web Development and Open Source projects
+
+🤝 Seeking guidance in Backend Development and Software Engineering best practices
+
+💬 Ask me about HTML, CSS, JavaScript, Java, and GitHub
+
+⚡ Fun fact: I enjoy building simple websites and turning ideas into real projects 🚀<br>
 
 
 ## 🌐 Socials:
